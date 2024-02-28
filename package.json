@@ -1,0 +1,14 @@
+{
+    "name": "discord-bot-boilerplate",
+    "version": "1.0.0",
+    "description": "Um boilerplate simples para criar bots do Discord.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "dependencies": {
+      "discord.js": "^14.0.0",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
